@@ -400,7 +400,7 @@ ingame:
 # All shop upgrades
 shopUpgrades:
     belt:
-        name: Конвейеры, Разделители & Туннели
+        name: Конвейеры, Распределители & Туннели
         description: Скорость x<currentMult> → x<newMult>
     miner:
         name: Добыча
