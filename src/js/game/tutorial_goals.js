@@ -165,6 +165,13 @@ export const tutorialGoals = [
         required: 250000,
         reward: enumHubGoalRewards.reward_freeplay,
     },
+    
+    // 19
+    {
+        shape: "Wc--Wg--:--Ry--Rp:Sb--Sr--:--Cp--Cb",
+        required: 500000,
+        reward: enumHubGoalRewards.no_reward,
+    },
 ];
 
 if (G_IS_DEV) {
